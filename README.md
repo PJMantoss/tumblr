@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a tumblr look-alike (a microblogging and social networking app). It is build with Rails 5, Devise and Normalize CSS. It allows users to register, create a blog and view other users' blogs. Users can also restrict blog views. 
 
-Things you may want to cover:
+Date: 8-August-19
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Developer: PJ Mantoss
